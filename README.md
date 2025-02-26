@@ -15,7 +15,7 @@ This repository contains OMNeT++ simulation files for evaluating a **statistical
    - Download and install from: [https://omnetpp.org/](https://omnetpp.org/)  
 2. **Clone this repository**:  
    ```sh
-   git clone https://github.com/yourusername/omnetpp-simulation.git
+   git clone https://github.com/M-Yousif/omnetpp-IDPS-simulation.git
 Open OMNeT++ and import the project:
 Launch OMNeT++
 Go to File > Import > Existing Project
